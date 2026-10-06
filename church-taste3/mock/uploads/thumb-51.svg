@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360"><defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="hsl(12 30% 28%)"/><stop offset="1" stop-color="hsl(42 35% 14%)"/></linearGradient></defs>
+  <rect width="640" height="360" fill="url(#g)"/><circle cx="520" cy="80" r="140" fill="hsl(12 40% 60%)" opacity=".18"/>
+  <text x="40" y="250" font-family="sans-serif" font-size="34" font-weight="700" fill="#fff">믿음의 경주</text>
+  <text x="40" y="300" font-family="sans-serif" font-size="20" fill="#ffffffaa">SAMPLE SERMON</text></svg>
