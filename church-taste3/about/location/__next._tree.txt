@@ -1,6 +1,6 @@
-:HL["/test2/church-taste3/_next/static/chunks/a572b13b2bca394f.css","style"]
+:HL["/test2/church-taste3/_next/static/chunks/edf6ca5f96c6a8bc.css","style"]
 :HL["https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.min.css","style"]
 :HL["/test2/church-taste3/img/google-logo.webp","image"]
 :HL["/test2/church-taste3/img/naver-logo.webp","image"]
 :HL["/test2/church-taste3/img/kakao-logo.png","image"]
-0:{"buildId":"SVEqxd9VYOjxkPzuxYY1e","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"about","paramType":null,"paramKey":"about","hasRuntimePrefetch":false,"slots":{"children":{"name":"location","paramType":null,"paramKey":"location","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
+0:{"buildId":"45ED4drkyzJB01RlOz8YD","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"about","paramType":null,"paramKey":"about","hasRuntimePrefetch":false,"slots":{"children":{"name":"location","paramType":null,"paramKey":"location","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
